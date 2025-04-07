@@ -1,2 +1,2 @@
-# medical_image_analysis
+# Medical Image Analysis
 Project Template
